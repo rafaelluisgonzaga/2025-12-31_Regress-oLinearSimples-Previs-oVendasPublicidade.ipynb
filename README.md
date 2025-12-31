@@ -1,0 +1,1 @@
+# 2025-12-31_Regress-oLinearSimples-Previs-oVendasPublicidade.ipynb
